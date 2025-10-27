@@ -34,11 +34,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I'm a Ph.D. student focusing on biological information extraction.My research involves building and curating biomedical datasets to support information extraction tasks. I apply Retrieval-Augmented Generation (RAG) techniques to enhance extraction performance, connecting domain-specific data with large language models.
+        I also design and visualize editable, step-by-step testing pipelines, allowing others to reproduce and extend the extraction experiments. I'm passionate about bridging biology and NLP — using machine intelligence to make biological data more accessible, interpretable, and useful.
+        Feel free to reach out if you're interested in collaboration or dataset sharing! 😃
     design:
       columns: '1'
   - block: collection
